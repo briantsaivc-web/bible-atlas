@@ -1,5 +1,5 @@
 {
- "version": "v1.2",
+ "version": "v1.3",
  "updated": "2026-10-20",
  "cycles": [
   {
@@ -141,7 +141,7 @@
  "counts": {
   "stories": 365,
   "characters": 264,
-  "artworks": 3448,
+  "artworks": 3320,
   "relations": 170
  }
 }
