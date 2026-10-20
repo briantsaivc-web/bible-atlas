@@ -145,18 +145,18 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const J=n=>fetch('data/'+n+'.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw new Error(n);return r.json()});
 let ST=[],CH={},ART=[],REL=[],META={},CYC=[];
 const SITES=[['西洋藝術流派大全集','https://briantsaivc-web.github.io/art-history-atlas/'],['西洋雕刻演進大全集','https://briantsaivc-web.github.io/sculpture-atlas/'],['希臘神話大全集','https://briantsaivc-web.github.io/greek-myth-atlas/']];
-const SITE={p:SITES[0],s:SITES[1]};
+const SITE={p:SITES[0],s:SITES[1],w:['Wikimedia Commons','https://commons.wikimedia.org/']};
 const CATC={'神':'#c9a35a','天使':'#9fb7d4','族長':'#b0894a','先知':'#2f8f8f','士師':'#8a9a4a','君王':'#9a62b0','使徒':'#5f86c4','門徒':'#7d9fd0','婦女':'#d08a9a','敵對者':'#b5483f','外邦人':'#9c8a6a','其他':'#8a8a8a'};
 const RELC={父母:'#c9a35a',配偶:'#c96b7c',手足:'#7a9cc9',殺害:'#b5483f',師徒:'#8fb08f'};
 const artById={}; const artOf=id=>artById[id];
-const kindOf=a=>a.site==='s'?'雕刻':'繪畫';
+const kindOf=a=>(a.site==='w'?a.kind==='sculpture':a.site==='s')?'雕刻':'繪畫';
 const cycOf=id=>CYC.find(c=>c.id===id);
 function stOf(id){return ST.find(s=>s.id===id)}
 function storyArt(s){return (s.art||[]).map(artOf).filter(Boolean)}
 function charArt(c){return ART.filter(a=>a.chars.includes(c))}
 function charStories(c){return ST.filter(s=>s.chars.includes(c))}
 function cover(s){const a=storyArt(s)[0];return a?a.thumb:''}
-function subject(a){const t=((a.t||'')+' '+(a.z||''));
+function subject(a){if(a.theme)return a.theme;const t=((a.t||'')+' '+(a.z||''));
   if(/Piet[àa]|聖殤/i.test(t))return '聖殤';
   if(/Holy Family|聖家/i.test(t))return '聖家族';
   if(/Madonna|Virgin|聖母/i.test(t))return '聖母與聖嬰';
@@ -177,7 +177,7 @@ function route(){
   else if(v==='graph'){setTab('graph');m.innerHTML=graphView();setTimeout(()=>drawGraph(id),0)}
   else if(v==='gallery'||v==='art'){setTab('gallery');m.innerHTML=galleryView();applyGallery(true)}
   else m.innerHTML=home();
-  m.insertAdjacentHTML('beforeend',`<footer>資料版本 ${esc(META.version||'')}（${esc(META.updated||'')}）。經文出處與背景據聖經與通行學術說明改寫；圖檔取自姊妹站${SITES.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join('、')}（Wikimedia Commons 公共領域）。<br>姊妹站：${SITES.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join(' · ')}</footer>`);
+  m.insertAdjacentHTML('beforeend',`<footer>資料版本 ${esc(META.version||'')}（${esc(META.updated||'')}）。經文出處與背景據聖經與通行學術說明改寫；圖檔取自姊妹站${SITES.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join('、')}（Wikimedia Commons 公共領域）；本站另收錄的作品圖檔直接取自 Wikimedia Commons，來源標示「Wikimedia Commons」。<br>姊妹站：${SITES.map(x=>`<a href="${x[1]}" target="_blank" rel="noopener">${x[0]}</a>`).join(' · ')}</footer>`);
 }
 function home(){
   const pick=ST[Math.floor(Math.random()*ST.length)]; const cov=cover(pick);
@@ -238,7 +238,7 @@ function charPage(id){
   ${ss.length?`<div class="sec"><h2 style="font-size:1.2rem">相關故事（${ss.length}）</h2></div><div class="grid">${ss.map(storyCard).join('')}</div>`:''}
   ${arts.length?`<div class="sec"><h2 style="font-size:1.2rem">藝術作品（${arts.length}）</h2></div><div class="wall">${arts.map(wallFig).join('')}</div>`:''}</article>`;
 }
-function wallFig(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.z||a.t)}</b>${a.generic?`<span class="gen">${esc(subject(a))}</span>`:''}<br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${kindOf(a)}</figcaption></figure>`}
+function wallFig(a){return `<figure onclick="openLb('${a.id}')"><img src="${esc(a.thumb)}" alt="${esc(a.z||a.t)}" loading="lazy"><figcaption><b>${esc(a.z||a.t)}</b>${(a.generic||a.theme)?`<span class="gen">${esc(subject(a))}</span>`:''}<br>${esc(a.a_zh||a.a)}${a.y?' · '+esc(a.y):''} · ${kindOf(a)}</figcaption></figure>`}
 function graphView(){
   return `<div class="sec"><h2>人物關係圖</h2><span class="lead" style="margin:0">拖曳節點、滾輪縮放；點人物看關係與故事。</span></div>
   <div class="gtools"><select id="gcat"><option value="">所有類別</option>${Object.keys(CATC).map(k=>`<option>${k}</option>`).join('')}</select><select id="grel"><option value="">所有關係</option>${Object.keys(RELC).map(k=>`<option>${k}</option>`).join('')}</select><input id="gq" placeholder="搜尋人物…" list="gnames"><datalist id="gnames">${Object.values(CH).map(c=>`<option value="${esc(c.zh)}">`).join('')}</datalist><label style="font-size:.85rem;color:var(--muted)"><input type="checkbox" id="gmain" checked> 只顯示有關係連線的人物</label></div>
@@ -279,7 +279,7 @@ function showPanel(id){const c=CH[id];const p=document.getElementById('gpanel');
 const GF={cyc:'',ch:'',kind:'',sub:'',q:'',n:120};
 function galleryView(){
   const chs=Object.values(CH).map(c=>[c,charArt(c.id).length]).filter(x=>x[1]>=1).sort((a,b)=>b[1]-a[1]);
-  const subs=['聖母與聖嬰','聖家族','聖人','基督像','聖殤','其他宗教題材'];
+  const subs=[...new Set(['聖母與聖嬰','聖家族','聖人','基督像','聖殤','其他宗教題材',...themeOpts()])];
   return `<div class="sec"><h2>看圖找故事</h2><span class="lead" style="margin:0" id="gcount"></span></div>
   <p class="lead">瀏覽來自兩個大全集的繪畫與雕刻；點作品看大圖，並連到它所畫的聖經故事。尚未對應到特定故事的作品（如聖母像、聖人像），標示其題材分類。</p>
   <div class="gsel"><select id="fc" onchange="GF.cyc=this.value;applyGallery()"><option value="">所有篇章</option>${CYC.map(c=>`<option value="${c.id}">${esc(c.zh)}</option>`).join('')}</select>
@@ -290,6 +290,8 @@ function galleryView(){
   <div class="wall" id="gwall"></div><div style="text-align:center;margin:18px"><button class="chip" id="gmore" onclick="GF.n+=120;applyGallery(false,true)">顯示更多</button></div>`;
 }
 let _artCyc=null;
+const kindCode=a=>a.site==='w'?(a.kind==='sculpture'?'s':'p'):a.site;
+function themeOpts(){const c={};ART.forEach(a=>{if(a.theme)c[a.theme]=(c[a.theme]||0)+1});return Object.entries(c).filter(x=>x[1]>=8).sort((a,b)=>b[1]-a[1]).map(x=>x[0])}
 function artCycles(){if(_artCyc)return _artCyc;_artCyc={};ST.forEach(s=>(s.art||[]).forEach(id=>(_artCyc[id]=_artCyc[id]||new Set()).add(s.cycle)));return _artCyc}
 function applyGallery(init,more){
   if(init){document.getElementById('fc').value=GF.cyc;document.getElementById('fh').value=GF.ch;document.getElementById('fk').value=GF.kind;document.getElementById('fs').value=GF.sub;document.getElementById('fq').value=GF.q}
@@ -298,9 +300,9 @@ function applyGallery(init,more){
   const list=ART.filter(a=>{
     if(GF.cyc&&!(ac[a.id]&&ac[a.id].has(GF.cyc)))return false;
     if(GF.ch&&!a.chars.includes(GF.ch))return false;
-    if(GF.kind&&a.site!==GF.kind)return false;
-    if(GF.sub==='story'&&a.generic)return false;
-    if(GF.sub&&GF.sub!=='story'&&!(a.generic&&subject(a)===GF.sub))return false;
+    if(GF.kind&&kindCode(a)!==GF.kind)return false;
+    if(GF.sub==='story'&&(a.site==='w'?!ac[a.id]:a.generic))return false;
+    if(GF.sub&&GF.sub!=='story'&&!((a.generic||a.theme)&&subject(a)===GF.sub))return false;
     if(q&&!((a.t||'')+(a.z||'')+(a.a||'')+(a.a_zh||'')).toLowerCase().includes(q))return false;
     return true});
   document.getElementById('gcount').textContent=`${list.length} 件`;
@@ -313,7 +315,7 @@ function openLb(id){const a=artOf(id);if(!a)return;const s=SITE[a.site];const st
   ${a.generic?`<p style="margin:10px 0"><span class="chip">題材：${esc(subject(a))}</span></p>`:''}
   ${a.chars.length?`<div class="chips">${a.chars.map(c=>CH[c]?`<span class="chip" onclick="closeLb();go('#char/${c}')">${esc(CH[c].zh)}</span>`:'').join('')}</div>`:''}
   <div class="lbl" style="margin-top:10px">這幅作品的故事</div>${stories.length?stories.map(st=>`<div><a href="#story/${st.id}" onclick="closeLb()">${esc(st.title)}</a> <span style="color:var(--muted);font-size:.8rem">${esc(st.book)}</span></div>`).join(''):'<div style="color:var(--muted)">尚未對應到特定故事。</div>'}
-  <p style="margin-top:14px;font-size:.85rem"><a href="${esc(s.url||s[1])}#work/${esc(a.wid)}" target="_blank" rel="noopener">在${esc(s.name||s[0])}開啟此作品（含高解析度大圖）→</a></p>${a.src_url?`<p style="font-size:.8rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">圖檔來源頁</a></p>`:''}${a.wd_flag?'<p style="font-size:.8rem;color:var(--danger)">原站標示此圖與條目資料有待核對之處。</p>':''}`;
+  ${a.site==='w'?'':`<p style="margin-top:14px;font-size:.85rem"><a href="${esc(s.url||s[1])}#work/${esc(a.wid)}" target="_blank" rel="noopener">在${esc(s.name||s[0])}開啟此作品（含高解析度大圖）→</a></p>`}${a.site==='w'?`<p style="margin-top:14px;font-size:.85rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">在 Wikimedia Commons 開啟原圖（含高解析度大圖）→</a></p>`:a.src_url?`<p style="font-size:.8rem"><a href="${esc(a.src_url)}" target="_blank" rel="noopener">圖檔來源頁</a></p>`:''}${a.wd_flag?'<p style="font-size:.8rem;color:var(--danger)">原站標示此圖與條目資料有待核對之處。</p>':''}`;
   document.getElementById('lb').classList.add('on');document.body.style.overflow='hidden'}
 function closeLb(){document.getElementById('lb').classList.remove('on');document.body.style.overflow=''}
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeLb()});
