@@ -1,0 +1,147 @@
+{
+ "version": "v1",
+ "updated": "2026-10-20",
+ "cycles": [
+  {
+   "id": "creation",
+   "zh": "創世與始祖",
+   "en": "Creation and the Primeval Age",
+   "desc": "從創造、墮落、洪水到巴別塔，人類與神關係的起點。",
+   "order": 1,
+   "color": "#4a6fa5",
+   "count": 24
+  },
+  {
+   "id": "patriarchs",
+   "zh": "列祖",
+   "en": "The Patriarchs",
+   "desc": "亞伯拉罕、以撒、雅各與約瑟，蒙揀選家族的故事。",
+   "order": 2,
+   "color": "#b0894a",
+   "count": 38
+  },
+  {
+   "id": "exodus",
+   "zh": "出埃及與曠野",
+   "en": "Exodus and Wilderness",
+   "desc": "摩西領以色列人出埃及、西奈立約、曠野漂流與進入應許地。",
+   "order": 3,
+   "color": "#a8553f",
+   "count": 38
+  },
+  {
+   "id": "judges",
+   "zh": "士師時代",
+   "en": "The Judges",
+   "desc": "部落無王時代，神興起士師拯救百姓，並含路得的故事。",
+   "order": 4,
+   "color": "#6f7f3d",
+   "count": 25
+  },
+  {
+   "id": "kings",
+   "zh": "君王時代",
+   "en": "The Kingdoms",
+   "desc": "從撒母耳、掃羅、大衛、所羅門到南北國的興衰。",
+   "order": 5,
+   "color": "#7b4a8c",
+   "count": 46
+  },
+  {
+   "id": "prophets",
+   "zh": "先知與被擄",
+   "en": "Prophets and Exile",
+   "desc": "先知的呼召與警告，以及巴比倫被擄與歸回的故事。",
+   "order": 6,
+   "color": "#2f5d62",
+   "count": 30
+  },
+  {
+   "id": "wisdom",
+   "zh": "智慧文學",
+   "en": "Wisdom Literature",
+   "desc": "約伯、詩篇、箴言與雅歌所呈現的苦難、智慧與愛。",
+   "order": 7,
+   "color": "#c2a24a",
+   "count": 9
+  },
+  {
+   "id": "apocrypha",
+   "zh": "次經",
+   "en": "The Apocrypha",
+   "desc": "多比傳、猶滴傳、馬加比等次經與補充經卷的故事。",
+   "order": 8,
+   "color": "#8a6a4f",
+   "count": 15
+  },
+  {
+   "id": "nativity",
+   "zh": "降生與童年",
+   "en": "Nativity and Infancy",
+   "desc": "施洗約翰與耶穌的預告、誕生及童年。",
+   "order": 9,
+   "color": "#d0b25a",
+   "count": 15
+  },
+  {
+   "id": "ministry",
+   "zh": "耶穌傳道",
+   "en": "The Ministry of Jesus",
+   "desc": "耶穌受洗、呼召門徒、行神蹟與教導。",
+   "order": 10,
+   "color": "#3d5a8c",
+   "count": 40
+  },
+  {
+   "id": "parables",
+   "zh": "耶穌的比喻",
+   "en": "The Parables",
+   "desc": "耶穌以比喻講說天國與人生的教訓。",
+   "order": 11,
+   "color": "#7d8f4a",
+   "count": 18
+  },
+  {
+   "id": "passion",
+   "zh": "受難",
+   "en": "The Passion",
+   "desc": "從進耶路撒冷、最後晚餐到被捕、審判與釘十字架。",
+   "order": 12,
+   "color": "#8c2f3a",
+   "count": 27
+  },
+  {
+   "id": "resurrection",
+   "zh": "復活與顯現",
+   "en": "Resurrection and Appearances",
+   "desc": "耶穌復活、向門徒顯現與升天。",
+   "order": 13,
+   "color": "#c9a227",
+   "count": 12
+  },
+  {
+   "id": "acts",
+   "zh": "使徒行傳",
+   "en": "Acts of the Apostles",
+   "desc": "聖靈降臨、教會成立與保羅的宣教旅程。",
+   "order": 14,
+   "color": "#9a5b32",
+   "count": 17
+  },
+  {
+   "id": "revelation",
+   "zh": "啟示錄",
+   "en": "Revelation",
+   "desc": "約翰所見的異象、末世爭戰與新天新地。",
+   "order": 15,
+   "color": "#5b3a7a",
+   "count": 11
+  }
+ ],
+ "counts": {
+  "stories": 365,
+  "characters": 264,
+  "artworks": 1548,
+  "relations": 170
+ }
+}
