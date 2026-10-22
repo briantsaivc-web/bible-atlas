@@ -16,10 +16,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"god",
-"joshua",
-"israelites"
+"jesus"
 ]
 },
 {
@@ -182,7 +179,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -223,7 +221,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
 "adam",
 "eve"
 ]
@@ -356,7 +353,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -377,7 +375,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -506,8 +505,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
-"michael"
+"mary"
 ]
 },
 {
@@ -643,7 +641,8 @@
 "chars": [
 "mary",
 "gabriel",
-"holy_spirit"
+"holy_spirit",
+"joseph_nazareth"
 ]
 },
 {
@@ -663,8 +662,11 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_apostle",
 "jesus",
+"mary",
+"john_baptist",
+"adam",
+"eve",
 "god"
 ]
 },
@@ -778,8 +780,7 @@
 "mary",
 "john_apostle",
 "mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"john_baptist"
 ]
 },
 {
@@ -802,9 +803,7 @@
 "jesus",
 "mary",
 "john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"mary_magdalene"
 ]
 },
 {
@@ -824,8 +823,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -845,8 +844,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"nimrod",
-"god"
+"nimrod"
 ]
 },
 {
@@ -1018,10 +1016,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jacob",
-"dinah",
-"simeon_jacob",
-"levi"
+"jesus",
+"matthew"
 ]
 },
 {
@@ -1153,8 +1149,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -1216,10 +1211,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -1285,9 +1278,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"daniel",
-"nebuchadnezzar",
-"god"
+"daniel"
 ]
 },
 {
@@ -1383,9 +1374,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"abraham",
-"sarah",
-"isaac"
+"isaac",
+"rebecca"
 ]
 },
 {
@@ -1443,7 +1433,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "prodigal_son",
 "prodigal_father",
 "elder_brother"
@@ -1503,9 +1492,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Pieter%20Claesz%20-%20Vanitas%2C%20circa%201630.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"solomon"
-]
+"chars": []
 },
 {
 "id": "p:c0224",
@@ -1544,31 +1531,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"matthew",
-"pharisees"
-]
-},
-{
-"id": "p:c0265",
-"site": "p",
-"wid": "c0265",
-"a": "Jacques-Louis David",
-"a_zh": "雅克-路易·大衛",
-"t": "Madame David",
-"z": "大衛夫人",
-"y": "1813",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/c0265.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/c0265.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.46113.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
+"matthew"
 ]
 },
 {
@@ -1588,7 +1551,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"daniel",
 "god"
 ]
 },
@@ -1608,11 +1570,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois%20Millet%20-%20Gleaners%20-%20Google%20Art%20Project%202.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"ruth",
-"boaz",
-"naomi"
-]
+"chars": []
 },
 {
 "id": "p:c0339",
@@ -1630,9 +1588,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois%20Millet%20-%20The%20Sower%20-%20Google%20Art%20Project.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"jesus"
-]
+"chars": []
 },
 {
 "id": "p:c0377",
@@ -1689,10 +1645,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
+"angel_of_lord"
 ]
 },
 {
@@ -1750,10 +1704,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"prodigal_son",
-"prodigal_father",
-"elder_brother"
+"prodigal_son"
 ]
 },
 {
@@ -1812,7 +1763,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -1832,9 +1783,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"herod_antipas",
-"herodias",
 "herodias_daughter"
 ]
 },
@@ -1951,7 +1899,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -2150,9 +2099,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
 "mary",
-"elizabeth",
-"zechariah"
+"john_apostle",
+"mary_magdalene"
 ]
 },
 {
@@ -2211,8 +2161,7 @@
 "kind": "painting",
 "chars": [
 "paul",
-"jesus",
-"ananias_damascus"
+"jesus"
 ]
 },
 {
@@ -2311,8 +2260,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"pharisees"
+"jesus"
 ]
 },
 {
@@ -2332,9 +2280,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -2528,9 +2476,11 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"hezekiah",
+"jesus",
+"mary",
+"joseph_nazareth",
 "isaiah",
-"god"
+"ezekiel"
 ]
 },
 {
@@ -2572,9 +2522,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -2614,8 +2562,8 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary_magdalene"
 ]
 },
 {
@@ -2714,9 +2662,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"zechariah",
-"gabriel",
-"elizabeth"
+"gabriel"
 ]
 },
 {
@@ -2756,8 +2702,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -2779,7 +2724,8 @@
 "chars": [
 "jesus",
 "mary",
-"joseph_nazareth"
+"joseph_nazareth",
+"john_baptist"
 ]
 },
 {
@@ -2939,29 +2885,7 @@
 "kind": "painting",
 "chars": [
 "abraham",
-"lot",
 "melchizedek"
-]
-},
-{
-"id": "p:n55",
-"site": "p",
-"wid": "n55",
-"a": "Anthony van Dyck",
-"a_zh": "安東尼·范戴克",
-"t": "Susanna Fourment and Her Daughter",
-"z": "蘇珊娜·富爾曼與女兒",
-"y": "1621",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n55.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n55.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.55.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"susanna",
-"two_elders"
 ]
 },
 {
@@ -2981,9 +2905,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -3045,7 +2967,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "prodigal_son",
 "prodigal_father",
 "elder_brother"
@@ -3109,91 +3030,6 @@
 "chars": []
 },
 {
-"id": "p:n166448",
-"site": "p",
-"wid": "n166448",
-"a": "Thomas Gainsborough",
-"a_zh": "湯瑪斯·根茲博羅",
-"t": "Frances Susanna, Lady de Dunstanville",
-"z": "德丹斯坦維爾夫人",
-"y": "c. 1786",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n166448.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n166448.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.166448.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"susanna",
-"two_elders"
-]
-},
-{
-"id": "p:n103",
-"site": "p",
-"wid": "n103",
-"a": "Sir Thomas Lawrence",
-"a_zh": "湯瑪斯·勞倫斯爵士",
-"t": "Lady Mary Templetown and Her Eldest Son",
-"z": "瑪麗·坦普爾敦夫人與長子",
-"y": "1802",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n103.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n103.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.103.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
-},
-{
-"id": "p:n41606",
-"site": "p",
-"wid": "n41606",
-"a": "Jean-Auguste-Dominique Ingres",
-"a_zh": "尚-奧古斯特-多米尼克·安格爾",
-"t": "Pope Pius VII in the Sistine Chapel",
-"z": "西斯汀禮拜堂中的教宗庇護七世",
-"y": "1814",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n41606.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n41606.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.41606.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"god",
-"adam"
-]
-},
-{
-"id": "p:n56727",
-"site": "p",
-"wid": "n56727",
-"a": "John Singleton Copley",
-"a_zh": "約翰·辛格頓·科普利",
-"t": "Adam Babcock",
-"z": "亞當·巴布科克",
-"y": "c. 1774",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n56727.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n56727.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.56727.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"god",
-"adam"
-]
-},
-{
 "id": "p:n46089",
 "site": "p",
 "wid": "n46089",
@@ -3233,28 +3069,6 @@
 "judas",
 "peter",
 "john_apostle",
-"twelve"
-]
-},
-{
-"id": "p:n66427",
-"site": "p",
-"wid": "n66427",
-"a": "Camille Pissarro",
-"a_zh": "卡米耶·畢沙羅",
-"t": "A Creek in St. Thomas (Virgin Islands)",
-"z": "聖湯瑪斯的小溪（維京群島）",
-"y": "1856",
-"mu": "National Gallery of Art, Washington",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/n66427.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/n66427.webp",
-"mat": null,
-"src_url": "https://www.nga.gov/collection/art-object-page.66427.html",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"thomas",
 "twelve"
 ]
 },
@@ -3336,7 +3150,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -3432,9 +3247,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -3477,10 +3290,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
-"david",
-"jesse",
-"god"
+"david"
 ]
 },
 {
@@ -3521,10 +3331,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"moses"
 ]
 },
 {
@@ -3563,9 +3370,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
 "adam",
-"eve"
+"eve",
+"serpent"
 ]
 },
 {
@@ -3605,9 +3412,7 @@
 "wd_flag": true,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -3750,8 +3555,7 @@
 "james_zebedee",
 "john_apostle",
 "moses",
-"elijah",
-"god"
+"elijah"
 ]
 },
 {
@@ -3794,8 +3598,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -3874,8 +3677,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"jesus",
+"satan"
 ]
 },
 {
@@ -3940,8 +3743,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary_magdalene",
-"angel_of_lord"
+"mary_magdalene"
 ]
 },
 {
@@ -4006,9 +3808,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -4028,9 +3828,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"paul",
-"jesus",
-"ananias_damascus"
+"paul"
 ]
 },
 {
@@ -4050,9 +3848,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -4180,6 +3976,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"mary",
 "jesus"
 ]
 },
@@ -4201,8 +3998,7 @@
 "kind": "painting",
 "chars": [
 "john_baptist",
-"elizabeth",
-"zechariah"
+"herodias_daughter"
 ]
 },
 {
@@ -4222,9 +4018,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"martha",
+"mary_bethany"
 ]
 },
 {
@@ -4307,8 +4103,7 @@
 "kind": "painting",
 "chars": [
 "belshazzar",
-"daniel",
-"god"
+"daniel"
 ]
 },
 {
@@ -4328,10 +4123,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
+"samson",
+"delilah"
 ]
 },
 {
@@ -4352,8 +4145,8 @@
 "kind": "painting",
 "chars": [
 "abraham",
-"sarah",
-"isaac"
+"isaac",
+"angel_of_lord"
 ]
 },
 {
@@ -4373,9 +4166,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"david",
-"bathsheba",
-"uriah"
+"bathsheba"
 ]
 },
 {
@@ -4414,9 +4205,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"martha",
+"mary_bethany"
 ]
 },
 {
@@ -4436,8 +4227,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"herod_great",
-"mary"
+"herod_great"
 ]
 },
 {
@@ -4457,31 +4247,9 @@
 "wd_flag": true,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
-]
-},
-{
-"id": "p:x0135",
-"site": "p",
-"wid": "x0135",
-"a": "Peter Paul Rubens",
-"a_zh": "彼得·保羅·魯本斯",
-"t": "The Straw Hat (Susanna Fourment)",
-"z": "草帽",
-"y": "c. 1622–1625",
-"mu": "National Gallery, London",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/x0135.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/x0135.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Straw_Hat_-_WGA20369.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"susanna",
-"two_elders"
+"samson",
+"delilah",
+"philistines"
 ]
 },
 {
@@ -4502,7 +4270,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -4680,8 +4449,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -4702,7 +4471,6 @@
 "kind": "painting",
 "chars": [
 "four_horsemen",
-"jesus",
 "john_apostle"
 ]
 },
@@ -4724,7 +4492,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -4823,8 +4592,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ruth",
-"naomi"
+"mary",
+"joseph_nazareth"
 ]
 },
 {
@@ -4844,8 +4613,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"herod_great",
-"mary"
+"herod_great"
 ]
 },
 {
@@ -4865,9 +4633,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
-"saul",
-"god"
+"paul"
 ]
 },
 {
@@ -4907,7 +4673,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -4929,7 +4694,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -4949,9 +4715,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"simon_cyrene",
-"mary"
+"jesus"
 ]
 },
 {
@@ -4971,10 +4735,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -5110,9 +4871,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -5155,10 +4914,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -5242,10 +4998,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"rebecca",
-"abraham",
-"isaac",
-"laban"
+"rebecca"
 ]
 },
 {
@@ -5267,29 +5020,6 @@
 "chars": [
 "noah",
 "god"
-]
-},
-{
-"id": "p:x0244",
-"site": "p",
-"wid": "x0244",
-"a": "Jacques-Louis David",
-"a_zh": "雅克-路易·大衛",
-"t": "The Death of Joseph Bara",
-"z": "約瑟夫‧巴拉之死",
-"y": "1794",
-"mu": "Musée Calvet, Avignon",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/x0244.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/x0244.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Bara_David.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"joseph_patriarch",
-"jacob",
-"judah",
-"reuben"
 ]
 },
 {
@@ -5328,10 +5058,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
+"angel_of_lord"
 ]
 },
 {
@@ -5372,8 +5100,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god"
+"moses"
 ]
 },
 {
@@ -5393,9 +5120,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"naomi",
 "ruth",
-"orpah"
+"boaz"
 ]
 },
 {
@@ -5475,8 +5201,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -5496,8 +5221,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -5560,7 +5285,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -5746,8 +5470,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"magi",
-"herod_great"
+"herod_antipas",
+"herodias_daughter"
 ]
 },
 {
@@ -5786,9 +5510,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -5830,8 +5552,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"tobit",
-"anna_tobit"
+"mary",
+"jesus"
 ]
 },
 {
@@ -5870,9 +5592,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -5892,9 +5612,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -5915,10 +5633,7 @@
 "kind": "painting",
 "chars": [
 "solomon",
-"david",
-"nathan",
-"zadok",
-"bathsheba"
+"queen_sheba"
 ]
 },
 {
@@ -5977,8 +5692,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary",
-"joseph_nazareth"
+"mary"
 ]
 },
 {
@@ -6093,9 +5807,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -6138,8 +5850,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary_magdalene",
-"angel_of_lord"
+"mary_magdalene"
 ]
 },
 {
@@ -6181,9 +5892,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"aaron",
-"bezalel"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -6204,7 +5915,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -6249,8 +5959,7 @@
 "james_zebedee",
 "john_apostle",
 "moses",
-"elijah",
-"god"
+"elijah"
 ]
 },
 {
@@ -6293,9 +6002,7 @@
 "jesus",
 "mary",
 "john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"mary_magdalene"
 ]
 },
 {
@@ -6409,8 +6116,7 @@
 "james_zebedee",
 "john_apostle",
 "moses",
-"elijah",
-"god"
+"elijah"
 ]
 },
 {
@@ -6449,9 +6155,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -6617,9 +6321,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam",
-"eve"
+"jesus",
+"mary"
 ]
 },
 {
@@ -6782,8 +6485,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ahasuerus",
-"vashti"
+"esther",
+"ahasuerus"
 ]
 },
 {
@@ -6882,9 +6585,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Young_Man_with_a_Skull,_Frans_Hals,_National_Gallery,_London.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"solomon"
-]
+"chars": []
 },
 {
 "id": "p:x0709",
@@ -6925,28 +6626,6 @@
 "chars": []
 },
 {
-"id": "p:x0739",
-"site": "p",
-"wid": "x0739",
-"a": "Thomas Gainsborough",
-"a_zh": "湯瑪斯·根茲博羅",
-"t": "Mary, Countess Howe",
-"z": "瑪麗·豪伯爵夫人",
-"y": "c. 1763–1764",
-"mu": "Kenwood House, London",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/x0739.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/x0739.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_Mary,_Countess_of_Howe_-_WGA08407.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
-},
-{
 "id": "p:x0745",
 "site": "p",
 "wid": "x0745",
@@ -6983,8 +6662,7 @@
 "kind": "painting",
 "chars": [
 "job",
-"satan",
-"god"
+"satan"
 ]
 },
 {
@@ -7004,9 +6682,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"zedekiah",
-"nebuchadnezzar",
-"jeremiah"
+"nebuchadnezzar"
 ]
 },
 {
@@ -7047,8 +6723,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"satan",
+"adam",
+"eve"
 ]
 },
 {
@@ -7068,8 +6745,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve",
+"abel"
 ]
 },
 {
@@ -7089,10 +6767,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
-"jacob",
-"rebecca",
-"isaac"
+"jacob"
 ]
 },
 {
@@ -7131,7 +6806,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
 "adam",
 "eve"
 ]
@@ -7311,7 +6985,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -7350,10 +7025,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"moses"
 ]
 },
 {
@@ -7469,7 +7141,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -7528,9 +7199,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"shepherds",
+"angel_of_lord"
 ]
 },
 {
@@ -7632,9 +7302,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"herodias_daughter",
+"john_baptist"
 ]
 },
 {
@@ -7734,8 +7403,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -7756,7 +7424,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -7796,9 +7463,12 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"jesus",
+"peter",
+"james_zebedee",
+"john_apostle",
+"moses",
+"elijah"
 ]
 },
 {
@@ -7819,7 +7489,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -7840,8 +7509,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -8015,8 +7683,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"magi",
-"herod_great"
+"herod_antipas",
+"herodias_daughter",
+"herodias",
+"john_baptist"
 ]
 },
 {
@@ -8132,29 +7802,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
-]
-},
-{
-"id": "p:y0072",
-"site": "p",
-"wid": "y0072",
-"a": "Filippino Lippi",
-"a_zh": "菲利皮諾·利比",
-"t": "Carafa Chapel: Triumph of Saint Thomas Aquinas",
-"z": "卡拉法禮拜堂：聖多瑪斯的凱旋",
-"y": "1488-1493",
-"mu": "Santa Maria sopra Minerva, Rome",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y0072.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y0072.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Filippino_Lippi,_Carafa_Chapel,_Triumph_of_St_Thomas_Aquinas_over_the_Heretics_03.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
 "jesus",
-"thomas",
-"twelve"
+"mary"
 ]
 },
 {
@@ -8341,7 +7990,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -8379,11 +8029,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Resurrection_of_the_Flesh_by_Luca_Signorelli_-_San_Brizio_Chapel_-_Cathedral_of_Orvieto_-_Italy.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
-]
+"chars": []
 },
 {
 "id": "p:y0100",
@@ -8402,8 +8048,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -8424,9 +8069,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"joshua"
 ]
 },
 {
@@ -8505,7 +8148,8 @@
 "chars": [
 "jesus",
 "mary",
-"joseph_nazareth"
+"joseph_nazareth",
+"simeon_temple"
 ]
 },
 {
@@ -8545,7 +8189,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -8567,7 +8210,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -8652,7 +8294,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -8678,7 +8319,9 @@
 "john_apostle",
 "mary_magdalene",
 "joseph_arimathea",
-"nicodemus"
+"nicodemus",
+"adam",
+"eve"
 ]
 },
 {
@@ -8699,7 +8342,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -8721,7 +8363,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -8760,10 +8403,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
+"john_baptist",
 "john_apostle",
-"mary_magdalene"
+"mary",
+"jesus"
 ]
 },
 {
@@ -8889,9 +8532,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -8992,7 +8633,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -9034,9 +8675,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam",
-"eve"
+"jesus",
+"mary"
 ]
 },
 {
@@ -9105,8 +8745,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"samaritan_woman"
+"good_samaritan"
 ]
 },
 {
@@ -9152,8 +8791,7 @@
 "kind": "painting",
 "chars": [
 "joseph_patriarch",
-"jacob",
-"reuben"
+"jacob"
 ]
 },
 {
@@ -9195,9 +8833,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"zipporah"
 ]
 },
 {
@@ -9376,8 +9012,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary_magdalene",
-"angel_of_lord"
+"mary_magdalene"
 ]
 },
 {
@@ -9525,8 +9160,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ahasuerus",
-"vashti"
+"esther",
+"ahasuerus"
 ]
 },
 {
@@ -9568,8 +9203,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"deborah",
-"barak",
+"jael",
 "sisera"
 ]
 },
@@ -9654,8 +9288,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"herod_great",
-"mary"
+"herod_great"
 ]
 },
 {
@@ -9892,10 +9525,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
+"laban"
 ]
 },
 {
@@ -9992,9 +9623,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"joseph_patriarch",
-"jacob",
-"reuben"
+"joseph_nazareth",
+"jesus"
 ]
 },
 {
@@ -10296,9 +9926,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
 "saul",
-"god"
+"witch_endor",
+"samuel"
 ]
 },
 {
@@ -10318,8 +9948,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ahasuerus",
-"vashti"
+"esther"
 ]
 },
 {
@@ -10340,8 +9969,7 @@
 "kind": "painting",
 "chars": [
 "belshazzar",
-"daniel",
-"god"
+"daniel"
 ]
 },
 {
@@ -10361,8 +9989,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god"
+"noah"
 ]
 },
 {
@@ -10382,9 +10009,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"david",
-"bathsheba",
-"uriah"
+"bathsheba"
 ]
 },
 {
@@ -10461,9 +10086,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary"
 ]
 },
 {
@@ -10522,8 +10145,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary",
-"joseph_nazareth"
+"peter"
 ]
 },
 {
@@ -10562,9 +10184,7 @@
 "wd_flag": true,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -10666,8 +10286,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"magi",
-"herod_great"
+"herod_antipas",
+"herodias_daughter",
+"herodias"
 ]
 },
 {
@@ -10687,9 +10308,7 @@
 "wd_flag": true,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -10804,9 +10423,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"herod_antipas",
-"herodias",
 "herodias_daughter"
 ]
 },
@@ -10846,8 +10462,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve",
+"serpent"
 ]
 },
 {
@@ -10978,6 +10595,7 @@
 "kind": "painting",
 "chars": [
 "tobit",
+"tobias",
 "anna_tobit"
 ]
 },
@@ -11065,8 +10683,7 @@
 "james_zebedee",
 "john_apostle",
 "moses",
-"elijah",
-"god"
+"elijah"
 ]
 },
 {
@@ -11087,8 +10704,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"gabriel",
-"holy_spirit"
+"jesus"
 ]
 },
 {
@@ -11146,9 +10762,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -11187,10 +10801,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"abraham",
-"sarah",
-"angel_of_lord",
-"god"
+"angel_of_lord"
 ]
 },
 {
@@ -11310,8 +10921,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -11549,9 +11159,11 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"hezekiah",
+"jesus",
+"mary",
+"joseph_nazareth",
 "isaiah",
-"god"
+"ezekiel"
 ]
 },
 {
@@ -11735,8 +11347,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -11801,8 +11412,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -11961,9 +11571,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"mary"
 ]
 },
 {
@@ -11983,9 +11591,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -12005,9 +11611,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
 "mary",
-"elizabeth",
-"zechariah"
+"john_apostle"
 ]
 },
 {
@@ -12220,9 +11826,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -12494,9 +12098,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -12536,7 +12138,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -12556,9 +12159,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -12616,9 +12217,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -12657,9 +12256,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
+"mary",
 "john_baptist",
-"elizabeth",
-"zechariah"
+"john_apostle"
 ]
 },
 {
@@ -12727,7 +12327,9 @@
 "kind": "painting",
 "chars": [
 "god",
-"adam"
+"adam",
+"eve",
+"serpent"
 ]
 },
 {
@@ -12808,7 +12410,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -13189,8 +12792,7 @@
 "kind": "painting",
 "chars": [
 "tobias",
-"angel_raphael",
-"tobit"
+"angel_raphael"
 ]
 },
 {
@@ -13210,9 +12812,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -13232,9 +12832,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -13254,9 +12852,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -13276,9 +12872,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -13503,8 +13097,8 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"simon_cyrene",
-"mary"
+"mary",
+"john_apostle"
 ]
 },
 {
@@ -13543,8 +13137,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -13731,9 +13324,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -13753,9 +13346,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -14087,7 +13680,6 @@
 "kind": "painting",
 "chars": [
 "noah",
-"god",
 "shem",
 "ham",
 "japheth"
@@ -14154,9 +13746,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -14214,8 +13806,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"mary",
+"jesus",
 "michael",
-"satan"
+"andrew"
 ]
 },
 {
@@ -14235,9 +13829,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"mary"
 ]
 },
 {
@@ -14279,9 +13871,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"tobias",
 "angel_raphael",
-"tobit"
+"tobias"
 ]
 },
 {
@@ -14302,8 +13893,9 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"john_baptist",
+"mary_magdalene"
 ]
 },
 {
@@ -14482,8 +14074,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god"
+"noah"
 ]
 },
 {
@@ -14504,31 +14095,9 @@
 "kind": "painting",
 "chars": [
 "noah",
-"god",
 "shem",
 "ham",
 "japheth"
-]
-},
-{
-"id": "p:y1462",
-"site": "p",
-"wid": "y1462",
-"a": "Michelangelo",
-"a_zh": "米開朗基羅",
-"t": "Sistine Chapel ceiling - Persian Sibyl",
-"z": "波斯女先知",
-"y": "1511",
-"mu": "Vatican Museums",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1462.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1462.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Perzsa.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"god",
-"adam"
 ]
 },
 {
@@ -14547,11 +14116,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Michelangelo,_profeti,_Zechariah_01.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"zechariah",
-"gabriel",
-"elizabeth"
-]
+"chars": []
 },
 {
 "id": "p:y1464",
@@ -14767,8 +14332,8 @@
 "kind": "painting",
 "chars": [
 "abraham",
-"sarah",
-"isaac"
+"isaac",
+"angel_of_lord"
 ]
 },
 {
@@ -14788,9 +14353,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -14830,8 +14393,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary_magdalene",
-"angel_of_lord"
+"mary_magdalene"
 ]
 },
 {
@@ -14973,9 +14535,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"joseph_patriarch",
-"jacob",
-"reuben"
+"mary",
+"jesus",
+"joseph_nazareth"
 ]
 },
 {
@@ -14995,9 +14557,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -15042,9 +14603,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"god",
+"mary_magdalene"
 ]
 },
 {
@@ -15149,9 +14709,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"mary",
 "jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -15290,8 +14850,7 @@
 "chars": [
 "mary_magdalene",
 "mary_of_james",
-"angel_of_lord",
-"jesus"
+"angel_of_lord"
 ]
 },
 {
@@ -15438,8 +14997,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -15554,9 +15112,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -15628,8 +15184,7 @@
 "chars": [
 "adam",
 "eve",
-"serpent",
-"god"
+"serpent"
 ]
 },
 {
@@ -15692,9 +15247,7 @@
 "jesus",
 "mary",
 "john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"mary_magdalene"
 ]
 },
 {
@@ -15715,7 +15268,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -15735,9 +15289,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -15796,7 +15348,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -15958,9 +15509,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -16022,8 +15571,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -16044,28 +15593,6 @@
 "kind": "painting",
 "generic": true,
 "chars": []
-},
-{
-"id": "p:y1583",
-"site": "p",
-"wid": "y1583",
-"a": "Jan Gossaert",
-"a_zh": "揚·戈薩特",
-"t": "Mary Tudor and Charles Brandon, Duke of Suffolk",
-"z": "瑪麗·都鐸與查爾斯·布蘭登",
-"y": "1515",
-"mu": "Woburn Abbey",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1583.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1583.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Mary_Tudor_and_Charles_Brandon2.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
 },
 {
 "id": "p:y1584",
@@ -16164,8 +15691,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -16398,9 +15924,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
-"saul",
-"god"
+"saul"
 ]
 },
 {
@@ -16464,10 +15988,7 @@
 "kind": "painting",
 "chars": [
 "solomon",
-"david",
-"nathan",
-"zadok",
-"bathsheba"
+"two_mothers"
 ]
 },
 {
@@ -16506,9 +16027,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"simon_cyrene",
-"mary"
+"jesus"
 ]
 },
 {
@@ -16529,9 +16048,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"pharaoh"
 ]
 },
 {
@@ -16591,9 +16108,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -16632,9 +16149,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"simon_cyrene",
-"mary"
+"jesus"
 ]
 },
 {
@@ -16752,8 +16267,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve",
+"serpent"
 ]
 },
 {
@@ -16793,8 +16309,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ahasuerus",
-"vashti"
+"esther",
+"ahasuerus"
 ]
 },
 {
@@ -16874,9 +16390,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -16896,9 +16410,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"david",
-"bathsheba",
-"uriah"
+"bathsheba"
 ]
 },
 {
@@ -16941,9 +16453,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"pharaoh_daughter"
 ]
 },
 {
@@ -16986,7 +16496,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -17046,11 +16557,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god",
-"shem",
-"ham",
-"japheth"
+"noah"
 ]
 },
 {
@@ -17093,9 +16600,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"israelites"
 ]
 },
 {
@@ -17137,11 +16642,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god",
-"shem",
-"ham",
-"japheth"
+"noah"
 ]
 },
 {
@@ -17161,11 +16662,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god",
-"shem",
-"ham",
-"japheth"
+"noah"
 ]
 },
 {
@@ -17228,8 +16725,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -17249,9 +16745,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"joseph_patriarch",
-"jacob",
-"reuben"
+"mary",
+"jesus",
+"joseph_nazareth",
+"john_baptist"
 ]
 },
 {
@@ -17271,8 +16768,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"tobit",
-"anna_tobit"
+"mary",
+"jesus"
 ]
 },
 {
@@ -17292,9 +16789,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -17315,8 +16812,7 @@
 "kind": "painting",
 "chars": [
 "joseph_patriarch",
-"jacob",
-"reuben"
+"potiphar"
 ]
 },
 {
@@ -17393,9 +16889,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary",
+"joseph_nazareth",
+"john_baptist"
 ]
 },
 {
@@ -17497,9 +16994,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"paul",
-"jesus",
-"ananias_damascus"
+"paul"
 ]
 },
 {
@@ -17543,8 +17038,7 @@
 "chars": [
 "jesus",
 "mary",
-"john_apostle",
-"mary_magdalene"
+"john_baptist"
 ]
 },
 {
@@ -17659,8 +17153,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"tobit",
-"anna_tobit"
+"jesus",
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -17680,9 +17175,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "peter",
-"twelve"
+"paul"
 ]
 },
 {
@@ -17800,9 +17294,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -17822,9 +17314,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "peter",
-"twelve"
+"paul"
 ]
 },
 {
@@ -17869,8 +17360,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -17947,9 +17437,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -18128,9 +17616,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -18220,8 +17706,8 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary_magdalene"
 ]
 },
 {
@@ -18358,7 +17844,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -18440,9 +17927,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"pharaoh_daughter"
 ]
 },
 {
@@ -18463,8 +17948,7 @@
 "kind": "painting",
 "chars": [
 "joseph_patriarch",
-"jacob",
-"reuben"
+"potiphar_wife"
 ]
 },
 {
@@ -18484,10 +17968,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -18545,10 +18027,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -18606,9 +18086,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -18796,10 +18274,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
+"samson",
+"delilah"
 ]
 },
 {
@@ -18860,10 +18336,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -18883,10 +18357,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
+"joseph_patriarch",
+"ephraim",
+"manasseh"
 ]
 },
 {
@@ -18906,9 +18380,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"mary"
 ]
 },
 {
@@ -18989,10 +18461,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -19151,10 +18620,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
+"laban"
 ]
 },
 {
@@ -19337,9 +18804,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -19380,9 +18845,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
 "adam",
-"eve"
+"eve",
+"serpent"
 ]
 },
 {
@@ -19461,10 +18926,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
+"samson",
+"delilah"
 ]
 },
 {
@@ -19509,9 +18972,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"joseph_patriarch",
-"jacob",
-"reuben"
+"mary",
+"jesus"
 ]
 },
 {
@@ -19570,9 +19032,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"zipporah"
 ]
 },
 {
@@ -19592,9 +19052,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -19615,7 +19073,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -19636,8 +19095,7 @@
 "kind": "painting",
 "chars": [
 "joseph_patriarch",
-"jacob",
-"reuben"
+"jacob"
 ]
 },
 {
@@ -19683,28 +19141,6 @@
 "kind": "painting",
 "generic": true,
 "chars": []
-},
-{
-"id": "p:y1963",
-"site": "p",
-"wid": "y1963",
-"a": "Francisco de Zurbarán",
-"a_zh": "法蘭西斯科·德·蘇巴朗",
-"t": "Saint Elizabeth of Portugal",
-"z": "葡萄牙的聖伊莉莎白",
-"y": "1635",
-"mu": "Museo del Prado",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1963.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1963.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Santa_Isabel_de_Portugal.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
 },
 {
 "id": "p:y1965",
@@ -19780,9 +19216,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -19802,10 +19236,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
-"jacob",
-"rebecca",
-"isaac"
+"jacob"
 ]
 },
 {
@@ -19890,31 +19321,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"abraham",
-"sarah",
-"isaac"
-]
-},
-{
-"id": "p:y1978",
-"site": "p",
-"wid": "y1978",
-"a": "Jusepe de Ribera",
-"a_zh": "胡塞佩·德·里貝拉",
-"t": "Saint Mary of Egypt",
-"z": "埃及的聖馬利亞",
-"y": "1641",
-"mu": "Musée Fabre",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y1978.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y1978.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Ribera-marie-égyptienne-musée-Fabre.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"isaac",
+"jacob"
 ]
 },
 {
@@ -20010,12 +19418,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"jesus"
 ]
 },
 {
@@ -20035,10 +19438,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"rebecca",
-"abraham",
-"isaac",
-"laban"
+"rebecca"
 ]
 },
 {
@@ -20078,8 +19478,7 @@
 "kind": "painting",
 "chars": [
 "joseph_patriarch",
-"jacob",
-"reuben"
+"potiphar_wife"
 ]
 },
 {
@@ -20156,9 +19555,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"joseph_patriarch",
-"jacob",
-"reuben"
+"joseph_nazareth"
 ]
 },
 {
@@ -20218,9 +19615,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -20240,9 +19635,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"thomas",
-"twelve"
+"thomas"
 ]
 },
 {
@@ -20285,8 +19678,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"herod_great",
-"mary"
+"herod_great"
 ]
 },
 {
@@ -20307,7 +19699,7 @@
 "kind": "painting",
 "chars": [
 "dagon",
-"god"
+"philistines"
 ]
 },
 {
@@ -20328,10 +19720,7 @@
 "kind": "painting",
 "chars": [
 "solomon",
-"david",
-"nathan",
-"zadok",
-"bathsheba"
+"two_mothers"
 ]
 },
 {
@@ -20370,9 +19759,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"aaron",
-"hur",
 "joshua"
 ]
 },
@@ -20417,8 +19803,7 @@
 "kind": "painting",
 "chars": [
 "tobias",
-"angel_raphael",
-"tobit"
+"angel_raphael"
 ]
 },
 {
@@ -20458,9 +19843,7 @@
 "kind": "painting",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"pharaoh_daughter"
 ]
 },
 {
@@ -20498,9 +19881,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:StillLifeWithASkull.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"solomon"
-]
+"chars": []
 },
 {
 "id": "p:y2032",
@@ -20541,10 +19922,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"moses"
 ]
 },
 {
@@ -20645,9 +20023,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -20730,12 +20106,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"andrew"
 ]
 },
 {
@@ -20816,10 +20187,8 @@
 "kind": "painting",
 "chars": [
 "hagar",
-"sarah",
-"abraham",
-"angel_of_lord",
-"ishmael"
+"ishmael",
+"angel_of_lord"
 ]
 },
 {
@@ -20877,7 +20246,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "prodigal_son",
 "prodigal_father",
 "elder_brother"
@@ -20900,10 +20268,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"moses"
 ]
 },
 {
@@ -20923,10 +20288,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"prodigal_son",
-"prodigal_father",
-"elder_brother"
+"prodigal_son"
 ]
 },
 {
@@ -20966,7 +20328,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -21008,31 +20370,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esau",
 "jacob",
-"rebecca",
-"isaac"
-]
-},
-{
-"id": "p:y2113",
-"site": "p",
-"wid": "y2113",
-"a": "Judith Leyster",
-"a_zh": "朱迪絲·萊斯特",
-"t": "Self-portrait by Judith Leyster",
-"z": "朱迪絲·萊斯特自畫像",
-"y": "1630",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2113.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2113.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Self-portrait_by_Judith_Leyster.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"judith",
-"abra"
+"joseph_patriarch",
+"ephraim",
+"manasseh"
 ]
 },
 {
@@ -21089,9 +20430,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Pieter_Claeszoon_-_Vanitas.JPG",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"solomon"
-]
+"chars": []
 },
 {
 "id": "p:y2200",
@@ -21109,9 +20448,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Willem_Claesz._Heda_-_Dessert,_still_life_with_cake,_wine,_beer_and_nuts_-_M.Ob.583_-_National_Museum_in_Warsaw.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"solomon"
-]
+"chars": []
 },
 {
 "id": "p:y2270",
@@ -21154,8 +20491,6 @@
 "kind": "painting",
 "chars": [
 "hagar",
-"sarah",
-"abraham",
 "angel_of_lord",
 "ishmael"
 ]
@@ -21179,28 +20514,6 @@
 "chars": [
 "tobit",
 "anna_tobit"
-]
-},
-{
-"id": "p:y2331",
-"site": "p",
-"wid": "y2331",
-"a": "Pieter Saenredam",
-"a_zh": "彼得·薩恩雷丹",
-"t": "The West Façade of the Church of Saint Mary in Utrecht",
-"z": "烏特勒支聖母教堂西立面",
-"y": "1662",
-"mu": "Thyssen-Bornemisza Museum",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2331.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2331.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam_-_The_West_Façade_of_the_Church_of_Saint_Mary_in_Utrecht_-_Google_Art_Project.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
 ]
 },
 {
@@ -21299,28 +20612,6 @@
 "chars": []
 },
 {
-"id": "p:y2339",
-"site": "p",
-"wid": "y2339",
-"a": "Pieter Saenredam",
-"a_zh": "彼得·薩恩雷丹",
-"t": "Utrecht, Saint Mary's Square and Saint Mary's Church",
-"z": "烏特勒支，聖母廣場與聖母教堂",
-"y": "1662",
-"mu": "Museum Boijmans Van Beuningen",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2339.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2339.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Pieter_Jansz._Saenredam_St._Mary's_Square_and_St._Mary's_Church_at_Utrecht_1663.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
-},
-{
 "id": "p:y2340",
 "site": "p",
 "wid": "y2340",
@@ -21382,10 +20673,7 @@
 "chars": [
 "jesus",
 "mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"john_apostle"
 ]
 },
 {
@@ -21405,9 +20693,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -21427,9 +20713,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -21491,7 +20775,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -21512,9 +20797,7 @@
 "kind": "painting",
 "chars": [
 "esau",
-"jacob",
-"rebecca",
-"isaac"
+"jacob"
 ]
 },
 {
@@ -21539,29 +20822,6 @@
 ]
 },
 {
-"id": "p:y2420",
-"site": "p",
-"wid": "y2420",
-"a": "Jan Lievens",
-"a_zh": "揚·利文斯",
-"t": "Smiling Old Man (Abraham Grapheus ? )",
-"z": "微笑的老人（疑為亞伯拉罕·格拉菲烏斯）",
-"y": "1637",
-"mu": "Hermitage Museum",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2420.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2420.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Jan_Lievens_-_Smiling_old_man_-_Hermitage.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
-},
-{
 "id": "p:y2421",
 "site": "p",
 "wid": "y2421",
@@ -21579,8 +20839,8 @@
 "kind": "painting",
 "chars": [
 "abraham",
-"sarah",
-"isaac"
+"isaac",
+"angel_of_lord"
 ]
 },
 {
@@ -21638,7 +20898,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"rehoboam",
 "jeroboam"
 ]
 },
@@ -21681,29 +20940,6 @@
 "chars": []
 },
 {
-"id": "p:y2584",
-"site": "p",
-"wid": "y2584",
-"a": "William Hogarth",
-"a_zh": "威廉·霍加斯",
-"t": "David Garrick as Richard III",
-"z": "大衛·加里克飾理查三世",
-"y": "1745",
-"mu": "Walker Art Gallery",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2584.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2584.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:William_Hogarth_-_David_Garrick_as_Richard_III_-_Google_Art_Project.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
-},
-{
 "id": "p:y2646",
 "site": "p",
 "wid": "y2646",
@@ -21723,31 +20959,6 @@
 "chars": []
 },
 {
-"id": "p:y2665",
-"site": "p",
-"wid": "y2665",
-"a": "Anne-Louis Girodet",
-"a_zh": "安-路易·吉羅代",
-"t": "The Entombment of Atala",
-"z": "阿達拉的安葬",
-"y": "1808",
-"mu": "Department of Paintings of the Louvre",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2665.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2665.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Atala_au_tombeau_-_Anne-Louis_Girodet_-_Musée_du_Louvre_Peintures_INV_4958,_louvre_1.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"joseph_arimathea",
-"nicodemus",
-"mary",
-"mary_magdalene",
-"john_apostle"
-]
-},
-{
 "id": "p:y2667",
 "site": "p",
 "wid": "y2667",
@@ -21763,33 +20974,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Une_Scène_de_Déluge_Girodet.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"noah",
-"god"
-]
-},
-{
-"id": "p:y2700",
-"site": "p",
-"wid": "y2700",
-"a": "Angelica Kauffman",
-"a_zh": "安潔莉卡·考夫曼",
-"t": "Portrait of David Garrick",
-"z": "大衛·加里克肖像",
-"y": "1764",
-"mu": "Burghley House",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2700.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2700.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Kauffman-Garrick.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
+"chars": []
 },
 {
 "id": "p:y2725",
@@ -21830,74 +21015,6 @@
 "chars": []
 },
 {
-"id": "p:y2742",
-"site": "p",
-"wid": "y2742",
-"a": "John Singleton Copley",
-"a_zh": "約翰·辛格頓·科普利",
-"t": "John Adams (1735-1826)",
-"z": "約翰·亞當斯（1735-1826）",
-"y": "1783",
-"mu": "Harvard Art Museums",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2742.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2742.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:John_Singleton_Copley_-_John_Adams_(1735-1826)_-_H74_-_Harvard_Art_Museums.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
-]
-},
-{
-"id": "p:y2754",
-"site": "p",
-"wid": "y2754",
-"a": "Gilbert Stuart",
-"a_zh": "吉爾伯特·斯圖爾特",
-"t": "Abigail Smith Adams (Mrs. John Adams)",
-"z": "阿比蓋爾·史密斯·亞當斯（約翰·亞當斯夫人）",
-"y": "1807",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2754.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2754.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Abigail_Adams_by_Gilbert_Stuart.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"abigail",
-"david",
-"nabal"
-]
-},
-{
-"id": "p:y2755",
-"site": "p",
-"wid": "y2755",
-"a": "Gilbert Stuart",
-"a_zh": "吉爾伯特·斯圖爾特",
-"t": "John Adams",
-"z": "約翰·亞當斯",
-"y": "1807",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2755.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2755.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:John_Adams_A18236.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
-]
-},
-{
 "id": "p:y2782",
 "site": "p",
 "wid": "y2782",
@@ -21915,7 +21032,6 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"god",
 "michael"
 ]
 },
@@ -21960,9 +21076,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"job",
-"satan",
-"god"
+"satan"
 ]
 },
 {
@@ -22025,8 +21139,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -22048,7 +21161,6 @@
 "chars": [
 "lot",
 "angel_of_lord",
-"god",
 "lots_wife",
 "lot_daughters"
 ]
@@ -22070,9 +21182,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"aaron",
-"hur",
 "joshua"
 ]
 },
@@ -22093,8 +21202,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"noah",
-"god"
+"noah"
 ]
 },
 {
@@ -22171,9 +21279,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"naomi",
-"ruth",
-"orpah"
+"ruth"
 ]
 },
 {
@@ -22193,9 +21299,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"david",
-"bathsheba",
-"uriah"
+"bathsheba"
 ]
 },
 {
@@ -22215,8 +21319,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"susanna",
-"two_elders"
+"susanna"
 ]
 },
 {
@@ -22236,9 +21339,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"david",
-"bathsheba",
-"uriah"
+"bathsheba"
 ]
 },
 {
@@ -22259,7 +21360,6 @@
 "kind": "painting",
 "chars": [
 "noah",
-"god",
 "shem",
 "ham",
 "japheth"
@@ -22304,29 +21404,6 @@
 "chars": []
 },
 {
-"id": "p:y2999",
-"site": "p",
-"wid": "y2999",
-"a": "Asher B. Durand",
-"a_zh": "阿舍·B·杜蘭德",
-"t": "John Adams",
-"z": "約翰·亞當斯",
-"y": "1850",
-"mu": "Naval History & Heritage Command",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y2999.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y2999.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:US_Navy_031029-N-6236G-001_A_painting_of_President_John_Adams_(1735-1826),_2nd_president_of_the_United_States,_by_Asher_B._Durand_(1767-1845).jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
-]
-},
-{
 "id": "p:y3037",
 "site": "p",
 "wid": "y3037",
@@ -22344,50 +21421,6 @@
 "kind": "painting",
 "generic": true,
 "chars": []
-},
-{
-"id": "p:y3065",
-"site": "p",
-"wid": "y3065",
-"a": "Sanford Robinson Gifford",
-"a_zh": "桑福德·羅賓遜·吉福德",
-"t": "Mrs. Sanford Robinson Gifford (Mary Cecilia Gifford)",
-"z": "吉福德夫人（瑪麗·塞西莉亞·吉福德）",
-"y": "1878",
-"mu": "Art Institute of Chicago",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3065.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3065.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Sanford_Robinson_Gifford_-_Mrs._Sanford_Robinson_Gifford_(Mary_Cecilia_Gifford)_-_1986.184_-_Art_Institute_of_Chicago.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
-},
-{
-"id": "p:y3074",
-"site": "p",
-"wid": "y3074",
-"a": "George Inness",
-"a_zh": "喬治·英尼斯",
-"t": "Saint Peter's, Rome",
-"z": "羅馬的聖彼得大教堂",
-"y": "1857",
-"mu": "New Britain Museum of American Art",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y3074.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y3074.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Saint_Peter's,_Rome,_by_George_Inness,_1857,_oil_on_canvas_-_New_Britain_Museum_of_American_Art_-_DSC09178.JPG",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"peter",
-"twelve"
-]
 },
 {
 "id": "p:y3109",
@@ -22504,10 +21537,8 @@
 "kind": "painting",
 "chars": [
 "hagar",
-"sarah",
-"abraham",
-"angel_of_lord",
-"ishmael"
+"ishmael",
+"angel_of_lord"
 ]
 },
 {
@@ -22622,10 +21653,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"moses"
 ]
 },
 {
@@ -22685,9 +21713,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"herodias",
+"john_baptist"
 ]
 },
 {
@@ -22726,9 +21753,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"esther",
-"mordecai",
-"ahasuerus"
+"esther"
 ]
 },
 {
@@ -22805,8 +21830,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ruth",
-"naomi"
+"magi",
+"mary",
+"jesus"
 ]
 },
 {
@@ -22886,9 +21912,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"naomi",
 "ruth",
-"orpah"
+"boaz"
 ]
 },
 {
@@ -22968,10 +21993,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
+"samson",
+"delilah",
+"philistines"
 ]
 },
 {
@@ -23050,9 +22074,6 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
 "samson"
 ]
 },
@@ -23213,29 +22234,6 @@
 ]
 },
 {
-"id": "p:y4010",
-"site": "p",
-"wid": "y4010",
-"a": "Gustave Moreau",
-"a_zh": "古斯塔夫·莫羅",
-"t": "The Parca and the Angel of Death",
-"z": "帕爾卡與死亡天使",
-"y": "1890",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4010.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4010.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:The-Parca-and-the-Angel-of-Death-1890.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"pharaoh",
-"moses",
-"god",
-"angel_of_lord"
-]
-},
-{
 "id": "p:y4020",
 "site": "p",
 "wid": "y4020",
@@ -23271,9 +22269,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -23331,9 +22327,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"job",
-"satan",
-"god"
+"satan"
 ]
 },
 {
@@ -23352,11 +22346,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Franz_von_Stuck_003.jpg",
 "wd_flag": false,
 "kind": "painting",
-"chars": [
-"god",
-"adam",
-"eve"
-]
+"chars": []
 },
 {
 "id": "p:y4071",
@@ -23375,8 +22365,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -23415,8 +22405,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"ezekiel",
-"god"
+"ezekiel"
 ]
 },
 {
@@ -23458,29 +22447,6 @@
 "jesus",
 "mary",
 "joseph_nazareth"
-]
-},
-{
-"id": "p:y4163",
-"site": "p",
-"wid": "y4163",
-"a": "Édouard Vuillard",
-"a_zh": "愛德華·維亞爾",
-"t": "Antoinette David-Weill and her nephew Maurice Lambiotte in Mareil-le-Guyon",
-"z": "安托瓦內特·大衛-威爾與外甥莫里斯·朗比奧特於馬雷伊勒居永",
-"y": "",
-"mu": "Musée National d'Art Moderne",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4163.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4163.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Antoinette_David-Weill_et_son_neveu_Maurice_Lambiotte_à_Mareil-le-Guyon,_projet.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
 ]
 },
 {
@@ -23567,7 +22533,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -23588,7 +22554,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -23630,27 +22596,6 @@
 "chars": []
 },
 {
-"id": "p:y4224",
-"site": "p",
-"wid": "y4224",
-"a": "Alphonse Mucha",
-"a_zh": "阿爾豐斯·慕夏",
-"t": "Master Jan Hus Preaching at the Bethlehem Chapel",
-"z": "揚·胡斯在伯利恆禮拜堂佈道",
-"y": "1916",
-"mu": "museum collection of the Prague City Gallery",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4224.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4224.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Kazani_mistra_jana_husa_v_kapli_betlemske_81x61m.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"ruth",
-"naomi"
-]
-},
-{
 "id": "p:y4230",
 "site": "p",
 "wid": "y4230",
@@ -23667,12 +22612,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"jesus"
 ]
 },
 {
@@ -23818,29 +22758,6 @@
 ]
 },
 {
-"id": "p:y4873",
-"site": "p",
-"wid": "y4873",
-"a": "John Trumbull",
-"a_zh": "約翰·特朗布爾",
-"t": "John Adams",
-"z": "約翰·亞當斯",
-"y": "1793",
-"mu": "National Portrait Gallery",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4873.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4873.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:John_Trumbull_-_John_Adams_-_Google_Art_Project.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
-]
-},
-{
 "id": "p:y4874",
 "site": "p",
 "wid": "y4874",
@@ -23876,9 +22793,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -23955,9 +22870,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "peter",
-"twelve"
+"paul"
 ]
 },
 {
@@ -23977,10 +22891,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -24039,8 +22950,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"elizabeth"
 ]
 },
 {
@@ -24103,9 +23013,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -24145,8 +23053,8 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus",
+"peter"
 ]
 },
 {
@@ -24167,10 +23075,7 @@
 "kind": "painting",
 "chars": [
 "solomon",
-"david",
-"nathan",
-"zadok",
-"bathsheba"
+"two_mothers"
 ]
 },
 {
@@ -24351,9 +23256,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -24472,10 +23375,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
 "mary",
-"john_apostle",
-"mary_magdalene"
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -24515,27 +23417,8 @@
 "kind": "painting",
 "chars": [
 "tobit",
+"tobias",
 "anna_tobit"
-]
-},
-{
-"id": "p:y4949",
-"site": "p",
-"wid": "y4949",
-"a": "Bernardo Strozzi",
-"a_zh": "貝爾納多·斯特羅齊",
-"t": "Vanitas (Old Coquette)",
-"z": "虛空（老風騷女子）",
-"y": "1637",
-"mu": "Pushkin Museum of Fine Arts",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y4949.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y4949.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Bernardo_Strozzi_-_Vanitas_(Old_Coquette)_-_Google_Art_Project.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"solomon"
 ]
 },
 {
@@ -24779,8 +23662,7 @@
 "kind": "painting",
 "chars": [
 "mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -24909,9 +23791,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -25028,9 +23908,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"mary",
-"joseph_nazareth"
+"jesus"
 ]
 },
 {
@@ -25145,9 +24023,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"mary"
 ]
 },
 {
@@ -25245,7 +24121,7 @@
 "chars": [
 "jesus",
 "mary",
-"joseph_nazareth"
+"john_apostle"
 ]
 },
 {
@@ -25288,8 +24164,7 @@
 "kind": "painting",
 "chars": [
 "jesus",
-"mary_magdalene",
-"angel_of_lord"
+"mary_magdalene"
 ]
 },
 {
@@ -25391,9 +24266,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -25456,9 +24331,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"herodias_daughter",
+"john_baptist"
 ]
 },
 {
@@ -25516,9 +24390,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
 "mary",
-"gabriel",
-"holy_spirit"
+"shepherds"
 ]
 },
 {
@@ -25539,7 +24413,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -25578,9 +24453,8 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"herodias_daughter",
+"john_baptist"
 ]
 },
 {
@@ -25601,10 +24475,7 @@
 "kind": "painting",
 "chars": [
 "noah",
-"god",
-"shem",
-"ham",
-"japheth"
+"ham"
 ]
 },
 {
@@ -25687,9 +24558,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -25709,9 +24580,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -25750,9 +24619,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"mary",
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -25792,7 +24661,7 @@
 "kind": "painting",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -25812,9 +24681,11 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
 "mary",
-"elizabeth",
-"zechariah"
+"joseph_nazareth",
+"john_baptist",
+"mary_magdalene"
 ]
 },
 {
@@ -25834,9 +24705,7 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -25857,7 +24726,8 @@
 "kind": "painting",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -25915,9 +24785,10 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
+"jesus",
 "mary",
 "elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -25975,9 +24846,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -26076,9 +24947,9 @@
 "wd_flag": false,
 "kind": "painting",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"mary",
+"john_baptist"
 ]
 },
 {
@@ -26308,29 +25179,6 @@
 "kind": "painting",
 "generic": true,
 "chars": []
-},
-{
-"id": "p:y5148",
-"site": "p",
-"wid": "y5148",
-"a": "Evelyn De Morgan",
-"a_zh": "伊芙琳·德·摩根",
-"t": "The Angel of Death I",
-"z": "死亡天使一",
-"y": "1880",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/art-history-atlas/img/800/y5148.webp",
-"thumb": "https://briantsaivc-web.github.io/art-history-atlas/img/thumb/y5148.webp",
-"mat": null,
-"src_url": "https://commons.wikimedia.org/wiki/File:Evelyn_De_Morgan_-_Angel_of_Death.jpg",
-"wd_flag": false,
-"kind": "painting",
-"chars": [
-"pharaoh",
-"moses",
-"god",
-"angel_of_lord"
-]
 },
 {
 "id": "s:s0030",
@@ -26684,8 +25532,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -26749,9 +25597,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"tobias",
 "angel_raphael",
-"tobit"
+"tobias"
 ]
 },
 {
@@ -26791,9 +25638,10 @@
 "kind": "sculpture",
 "chars": [
 "moses",
-"pharaoh_daughter",
-"miriam",
-"jochebed"
+"david",
+"jeremiah",
+"daniel",
+"isaiah"
 ]
 },
 {
@@ -26870,10 +25718,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -26932,7 +25778,7 @@
 "kind": "sculpture",
 "chars": [
 "judith",
-"abra"
+"holofernes"
 ]
 },
 {
@@ -27095,9 +25941,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -27155,8 +25999,10 @@
 "wd_flag": true,
 "kind": "sculpture",
 "chars": [
+"jesus",
 "mary",
-"jesus"
+"nicodemus",
+"mary_magdalene"
 ]
 },
 {
@@ -27195,9 +26041,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"tobias",
-"angel_raphael",
-"tobit"
+"mary",
+"jesus"
 ]
 },
 {
@@ -27217,10 +26062,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -27240,10 +26082,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"manoah",
-"manoahs_wife",
-"angel_of_lord",
-"samson"
+"samson",
+"philistines"
 ]
 },
 {
@@ -27263,8 +26103,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -27322,9 +26162,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -27363,10 +26201,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
-"david",
-"jesse",
-"god"
+"david"
 ]
 },
 {
@@ -27404,11 +26239,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Isolated_View_of_Bernini's_Baldacchino._Plate_39_from_the_Album_'Basilica_di_S._Pietro_in_Vaticano'_MET_DP273757.jpg",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"jesus",
-"peter",
-"twelve"
-]
+"chars": []
 },
 {
 "id": "s:s0470",
@@ -27427,9 +26258,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -27606,28 +26435,6 @@
 "chars": [
 "mary",
 "jesus"
-]
-},
-{
-"id": "s:s0505",
-"site": "s",
-"wid": "s0505",
-"a": "Gregorio Fernández",
-"a_zh": "格雷戈里奧·費爾南德斯",
-"t": "Saint Teresa of Jesus",
-"z": "聖女大德蘭",
-"y": "1625",
-"mu": "Museo Nacional de Escultura, Valladolid",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0505.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0505.webp",
-"mat": "木",
-"src_url": "https://commons.wikimedia.org/wiki/File:Gregorio_Fernández,_Santa_Teresa_de_Jesús,_1625.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"jesus",
-"mary",
-"joseph_nazareth"
 ]
 },
 {
@@ -27846,9 +26653,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"cain",
-"abel",
-"god"
+"abel"
 ]
 },
 {
@@ -27868,10 +26673,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
-"david",
-"jesse",
-"god"
+"david"
 ]
 },
 {
@@ -27915,52 +26717,6 @@
 "chars": []
 },
 {
-"id": "s:s0738",
-"site": "s",
-"wid": "s0738",
-"a": "Augustus Saint-Gaudens",
-"a_zh": "奧古斯都·聖高登斯",
-"t": "Abraham Lincoln: The Man (Standing Lincoln)",
-"z": "林肯站姿像",
-"y": "1887",
-"mu": "Lincoln Park, Chicago",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0738.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0738.webp",
-"mat": "青銅",
-"src_url": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_The_Man_Augustus_Saint-Gaudens_Chicago_2020-9460.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
-},
-{
-"id": "s:s0740",
-"site": "s",
-"wid": "s0740",
-"a": "Daniel Chester French",
-"a_zh": "丹尼爾·切斯特·弗倫奇",
-"t": "Seated Abraham Lincoln",
-"z": "林肯坐像",
-"y": "1914–1922",
-"mu": "Lincoln Memorial, Washington, D.C.",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s0740.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s0740.webp",
-"mat": "大理石",
-"src_url": "https://commons.wikimedia.org/wiki/File:Statue_of_Abraham_Lincoln,_Lincoln_Memorial_(2024)-L1005507.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
-},
-{
 "id": "s:s0793",
 "site": "s",
 "wid": "s0793",
@@ -27977,9 +26733,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -28178,10 +26932,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -28282,11 +27033,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Mary_salome.jpg",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
+"chars": []
 },
 {
 "id": "s:s1753",
@@ -28346,28 +27093,6 @@
 "chars": []
 },
 {
-"id": "s:s1756",
-"site": "s",
-"wid": "s1756",
-"a": "Tilman Riemenschneider",
-"a_zh": "提爾曼·里門施奈德",
-"t": "Saint Elizabeth of Hungary",
-"z": "匈牙利的聖伊麗莎白",
-"y": "1510",
-"mu": "Germanisches Nationalmuseum",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1756.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1756.webp",
-"mat": "木",
-"src_url": "https://commons.wikimedia.org/wiki/File:Hl._Elisabeth_v._Thüringen_bearb.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"mary",
-"elizabeth",
-"zechariah"
-]
-},
-{
 "id": "s:s1757",
 "site": "s",
 "wid": "s1757",
@@ -28385,7 +27110,8 @@
 "kind": "sculpture",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -28601,12 +27327,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"jesus"
 ]
 },
 {
@@ -28626,9 +27347,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"mary",
-"gabriel",
-"holy_spirit"
+"mary"
 ]
 },
 {
@@ -28648,9 +27367,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"jesus"
 ]
 },
 {
@@ -28827,10 +27544,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -29110,8 +27824,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"god",
-"adam"
+"adam",
+"eve"
 ]
 },
 {
@@ -29133,8 +27847,7 @@
 "chars": [
 "jesus",
 "john_baptist",
-"holy_spirit",
-"god"
+"holy_spirit"
 ]
 },
 {
@@ -29154,9 +27867,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"john_baptist"
 ]
 },
 {
@@ -29196,10 +27907,7 @@
 "kind": "sculpture",
 "chars": [
 "solomon",
-"david",
-"nathan",
-"zadok",
-"bathsheba"
+"queen_sheba"
 ]
 },
 {
@@ -29242,9 +27950,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -29306,10 +28012,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -29348,9 +28052,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"mary",
-"elizabeth",
-"zechariah"
+"mary_magdalene"
 ]
 },
 {
@@ -29370,10 +28072,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_baptist"
 ]
 },
 {
@@ -29545,31 +28244,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
-]
-},
-{
-"id": "s:s1854",
-"site": "s",
-"wid": "s1854",
-"a": "Antonio Rossellino",
-"a_zh": "安東尼奧·羅塞利諾",
-"t": "Tabernacle of San Sebastiano: Saint Sebastian",
-"z": "聖塞巴斯蒂安神龕：聖塞巴斯蒂安",
-"y": "1476",
-"mu": "Museum of the Collegiate Church of Sant’Andrea",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s1854.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s1854.webp",
-"mat": "大理石",
-"src_url": "https://commons.wikimedia.org/wiki/File:Antonio_rossellino_(scult.)_e_francesco_botticini_(dip.),_tabernacolo_di_san_sebastiano,_1476_ca.,_dalla_cappella_di_s._sebastiano_in_collegiata_05,2.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"moses",
-"aaron",
-"bezalel"
+"john_baptist"
 ]
 },
 {
@@ -29748,7 +28423,8 @@
 "kind": "sculpture",
 "chars": [
 "magi",
-"herod_great"
+"jesus",
+"mary"
 ]
 },
 {
@@ -29768,9 +28444,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -29847,9 +28521,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"tobias",
 "angel_raphael",
-"tobit"
+"tobias"
 ]
 },
 {
@@ -30087,9 +28760,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"moses",
-"aaron",
-"bezalel"
+"jesus"
 ]
 },
 {
@@ -30166,10 +28837,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -30245,11 +28913,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Benedetto_da_Rovezzano,_Relief_from_an_Altar_or_Tabernacle,_c._1507-1512,_NGA_1270.jpg",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"moses",
-"aaron",
-"bezalel"
-]
+"chars": []
 },
 {
 "id": "s:s1934",
@@ -30432,9 +29096,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"angel_of_lord",
-"mary_magdalene"
+"jesus"
 ]
 },
 {
@@ -30454,8 +29116,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -30497,9 +29158,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -30519,10 +29178,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_apostle"
 ]
 },
 {
@@ -30580,9 +29236,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"peter",
-"twelve"
+"peter"
 ]
 },
 {
@@ -30601,11 +29255,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Baldaquin_Bernin_Saint-Pierre_Vatican.jpg",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"jesus",
-"peter",
-"twelve"
-]
+"chars": []
 },
 {
 "id": "s:s2004",
@@ -30625,7 +29275,6 @@
 "kind": "sculpture",
 "chars": [
 "habakkuk",
-"daniel",
 "angel_of_lord"
 ]
 },
@@ -30646,7 +29295,6 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
 "longinus"
 ]
 },
@@ -30686,9 +29334,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"john_baptist",
-"elizabeth",
-"zechariah"
+"jesus",
+"john_baptist"
 ]
 },
 {
@@ -30710,8 +29357,7 @@
 "chars": [
 "jesus",
 "john_baptist",
-"holy_spirit",
-"god"
+"holy_spirit"
 ]
 },
 {
@@ -30731,9 +29377,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"matthew",
-"pharisees"
+"matthew"
 ]
 },
 {
@@ -30796,7 +29440,7 @@
 "chars": [
 "jesus",
 "mary",
-"joseph_nazareth"
+"john_baptist"
 ]
 },
 {
@@ -30860,8 +29504,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -30982,8 +29625,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"pilate"
+"jesus"
 ]
 },
 {
@@ -31023,8 +29665,7 @@
 "kind": "sculpture",
 "chars": [
 "jesus",
-"mary",
-"joseph_nazareth"
+"mary"
 ]
 },
 {
@@ -31085,29 +29726,6 @@
 "chars": []
 },
 {
-"id": "s:s2145",
-"site": "s",
-"wid": "s2145",
-"a": "Jean-Baptiste Lemoyne",
-"a_zh": "尚-巴蒂斯特·勒穆瓦納",
-"t": "Jules-David Cromot, Baron du Bourg",
-"z": "克羅莫·迪布爾男爵像",
-"y": "1757",
-"mu": "Sculptures in the National Gallery of Art",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2145.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2145.webp",
-"mat": "大理石",
-"src_url": "https://commons.wikimedia.org/wiki/File:Jean-Baptiste_Lemoyne_II,_Jules-David_Cromot,_Baron_du_Bourg,_c._1757,_NGA_65916.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
-},
-{
 "id": "s:s2154",
 "site": "s",
 "wid": "s2154",
@@ -31145,12 +29763,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene",
-"penitent_thief",
-"impenitent_thief"
+"jesus"
 ]
 },
 {
@@ -31233,29 +29846,6 @@
 "chars": []
 },
 {
-"id": "s:s2211",
-"site": "s",
-"wid": "s2211",
-"a": "Christian Daniel Rauch",
-"a_zh": "克里斯蒂安·丹尼爾·勞赫",
-"t": "Memorial Johann David Ludwig Yorck von Wartenburg",
-"z": "約克·馮·瓦滕堡紀念碑",
-"y": "1855",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2211.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2211.webp",
-"mat": "混合媒材",
-"src_url": "https://commons.wikimedia.org/wiki/File:Rauch_-_von_Wartenburg_statue,_Berlin_front.JPG",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
-},
-{
 "id": "s:s2234",
 "site": "s",
 "wid": "s2234",
@@ -31313,29 +29903,6 @@
 "chars": []
 },
 {
-"id": "s:s2295",
-"site": "s",
-"wid": "s2295",
-"a": "Pierre-Jean David d'Angers",
-"a_zh": "皮埃爾-尚·大衛·當熱",
-"t": "Portrait de l'abbé Grégoire by David d'Angers",
-"z": "格雷古瓦神父肖像",
-"y": "1828",
-"mu": "Museum of Fine Arts of Nancy",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2295.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2295.webp",
-"mat": "大理石",
-"src_url": "https://commons.wikimedia.org/wiki/File:David_d'Angers-Portrait_de_l'abbé_Grégoire-Musée_des_bx-arts_de_Nancy_(5).jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
-},
-{
 "id": "s:s2322",
 "site": "s",
 "wid": "s2322",
@@ -31352,9 +29919,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"cain",
-"abel",
-"god"
+"cain"
 ]
 },
 {
@@ -31374,10 +29939,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -31397,10 +29960,8 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
 "david",
-"jesse",
-"god"
+"goliath"
 ]
 },
 {
@@ -31420,10 +29981,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"mary",
-"john_apostle",
-"mary_magdalene"
+"john_baptist"
 ]
 },
 {
@@ -31443,7 +30001,6 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"god",
 "adam"
 ]
 },
@@ -31469,52 +30026,6 @@
 ]
 },
 {
-"id": "s:s2430",
-"site": "s",
-"wid": "s2430",
-"a": "Augustus Saint-Gaudens",
-"a_zh": "奧古斯都·聖高登斯",
-"t": "Abraham Lincoln: The Head of State",
-"z": "亞伯拉罕·林肯：國家元首",
-"y": "1908",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2430.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2430.webp",
-"mat": "青銅",
-"src_url": "https://commons.wikimedia.org/wiki/File:Sitting_Lincoln.JPG",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
-},
-{
-"id": "s:s2433",
-"site": "s",
-"wid": "s2433",
-"a": "Augustus Saint-Gaudens",
-"a_zh": "奧古斯都·聖高登斯",
-"t": "Admiral David Glasgow Farragut",
-"z": "海軍上將大衛·格拉斯哥·法拉格特",
-"y": "",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2433.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2433.webp",
-"mat": "其他",
-"src_url": "https://commons.wikimedia.org/wiki/File:Farragut_sculpture.JPG",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
-},
-{
 "id": "s:s2439",
 "site": "s",
 "wid": "s2439",
@@ -31534,29 +30045,6 @@
 "chars": []
 },
 {
-"id": "s:s2447",
-"site": "s",
-"wid": "s2447",
-"a": "Daniel Chester French",
-"a_zh": "丹尼爾·切斯特·弗倫奇",
-"t": "Statue of Abraham Lincoln",
-"z": "亞伯拉罕．林肯像",
-"y": "1912",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2447.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2447.webp",
-"mat": "青銅",
-"src_url": "https://commons.wikimedia.org/wiki/File:Nebraska_State_Capitol_W_entrance_Lincoln_2.JPG",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
-},
-{
 "id": "s:s2459",
 "site": "s",
 "wid": "s2459",
@@ -31572,9 +30060,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:Thornycroft_-_A_sower_40895.JPG",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"jesus"
-]
+"chars": []
 },
 {
 "id": "s:s2473",
@@ -31593,9 +30079,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"samuel",
-"saul",
-"god"
+"saul"
 ]
 },
 {
@@ -31616,29 +30100,6 @@
 "kind": "sculpture",
 "generic": true,
 "chars": []
-},
-{
-"id": "s:s2475",
-"site": "s",
-"wid": "s2475",
-"a": "Randolph Rogers",
-"a_zh": "蘭道夫·羅傑斯",
-"t": "Statue of Abraham Lincoln",
-"z": "亞伯拉罕．林肯像",
-"y": "1871",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2475.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2475.webp",
-"mat": "其他",
-"src_url": "https://commons.wikimedia.org/wiki/File:Lincoln_1871_Fairmount.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
-]
 },
 {
 "id": "s:s2501",
@@ -31675,9 +30136,7 @@
 "src_url": "https://commons.wikimedia.org/wiki/File:FFM_Guenthersburgpark_Saemann-Statue.jpg",
 "wd_flag": false,
 "kind": "sculpture",
-"chars": [
-"jesus"
-]
+"chars": []
 },
 {
 "id": "s:s2521",
@@ -31697,29 +30156,6 @@
 "kind": "sculpture",
 "generic": true,
 "chars": []
-},
-{
-"id": "s:s2540",
-"site": "s",
-"wid": "s2540",
-"a": "Alfred Gilbert",
-"a_zh": "阿爾弗雷德·吉爾伯特",
-"t": "Statue of David Davies",
-"z": "大衛．戴維斯像",
-"y": "",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2540.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2540.webp",
-"mat": "其他",
-"src_url": "https://commons.wikimedia.org/wiki/File:David_Davies_Llandinam_-_geograph.org.uk_-_1389119.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
 },
 {
 "id": "s:s2542",
@@ -31776,7 +30212,6 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"god",
 "adam"
 ]
 },
@@ -31819,33 +30254,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"prodigal_son",
-"prodigal_father",
-"elder_brother"
-]
-},
-{
-"id": "s:s2618",
-"site": "s",
-"wid": "s2618",
-"a": "Jef Lambeaux",
-"a_zh": "傑夫·朗博",
-"t": "Abraham Ortelius",
-"z": "亞伯拉罕．奧特柳斯",
-"y": "1889",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s2618.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s2618.webp",
-"mat": "大理石",
-"src_url": "https://commons.wikimedia.org/wiki/File:Brussels_Kleine_Zavel_statue_Ortelius.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"abraham",
-"isaac",
-"angel_of_lord",
-"god"
+"prodigal_son"
 ]
 },
 {
@@ -31960,8 +30369,7 @@
 "wd_flag": false,
 "kind": "sculpture",
 "chars": [
-"jesus",
-"twelve"
+"god"
 ]
 },
 {
@@ -31982,29 +30390,6 @@
 "kind": "sculpture",
 "generic": true,
 "chars": []
-},
-{
-"id": "s:s3085",
-"site": "s",
-"wid": "s3085",
-"a": "David Nash",
-"a_zh": "大衛·納許",
-"t": "Spiral Sheaves by David Nash",
-"z": "螺旋穗束",
-"y": "1991",
-"mu": "",
-"img": "https://briantsaivc-web.github.io/sculpture-atlas/img/800/s3085.webp",
-"thumb": "https://briantsaivc-web.github.io/sculpture-atlas/img/thumb/s3085.webp",
-"mat": "木",
-"src_url": "https://commons.wikimedia.org/wiki/File:At_London_2025_794.jpg",
-"wd_flag": false,
-"kind": "sculpture",
-"chars": [
-"samuel",
-"david",
-"jesse",
-"god"
-]
 },
 {
 "id": "s:s3111",
