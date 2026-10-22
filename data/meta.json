@@ -1,6 +1,6 @@
 {
- "version": "v1.8",
- "updated": "2026-10-20",
+ "version": "v1.9",
+ "updated": "2026-10-22",
  "cycles": [
   {
    "id": "creation",
@@ -141,7 +141,10 @@
  "counts": {
   "stories": 365,
   "characters": 264,
-  "artworks": 4571,
+  "artworks": 4700,
   "relations": 170
- }
+ },
+ "notes": [
+  "2026-10-22 v1.9：新增 129 件 Met／芝加哥藝術博物館／克里夫蘭美術館 CC0 開放資料作品配圖（Gemini 依題名初篩、Claude 子代理目視複核）；另 67 件既有作品補連故事（Gemini 提案、子代理複核 181 筆採用 69 筆）。"
+ ]
 }
