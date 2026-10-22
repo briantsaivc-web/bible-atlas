@@ -89663,5 +89663,106 @@
 "wd": "",
 "theme": null,
 "chars": []
+},
+{
+"id": "w:g0001",
+"site": "w",
+"wid": "g0001",
+"a": "Rijksmuseum",
+"a_zh": "佚名（荷蘭版畫）",
+"t": "Sara wordt teruggegeven aan Abraham, RP-P-OB-44.876",
+"z": "法老把撒拉還給亞伯拉罕（創世記 12:19–20）",
+"y": "約 1700",
+"mu": "Rijksmuseum, Amsterdam",
+"img": "img/800/g0001.webp",
+"thumb": "img/thumb/g0001.webp",
+"kind": "painting",
+"src_url": "https://commons.wikimedia.org/wiki/File:Sara_wordt_teruggegeven_aan_Abraham,_RP-P-OB-44.876.jpg",
+"wd": "",
+"theme": null,
+"chars": [
+"abraham",
+"sarah",
+"pharaoh"
+]
+},
+{
+"id": "w:g0002",
+"site": "w",
+"wid": "g0002",
+"a": "Gustave Doré",
+"a_zh": "古斯塔夫·多雷",
+"t": "Michal_Gustave_Doré",
+"z": "米甲讓大衛從窗戶逃走",
+"y": "1865",
+"mu": "",
+"img": "img/800/g0002.webp",
+"thumb": "img/thumb/g0002.webp",
+"kind": "painting",
+"src_url": "https://commons.wikimedia.org/wiki/File:Michal_Gustave_Doré.jpg",
+"wd": "",
+"theme": null,
+"chars": [
+"michal",
+"david"
+]
+},
+{
+"id": "w:g0003",
+"site": "w",
+"wid": "g0003",
+"a": "the Providence Lithograph Company",
+"a_zh": "普羅維登斯石印公司",
+"t": "The_Jews_Return_to_Jerusalem_in_the_Time_of_Cyrus",
+"z": "古列時代猶太人返回耶路撒冷",
+"y": "1898",
+"mu": "",
+"img": "img/800/g0003.webp",
+"thumb": "img/thumb/g0003.webp",
+"kind": "painting",
+"src_url": "https://commons.wikimedia.org/wiki/File:The_Jews_Return_to_Jerusalem_in_the_Time_of_Cyrus.jpg",
+"wd": "",
+"theme": null,
+"chars": [
+"cyrus"
+]
+},
+{
+"id": "w:g0004",
+"site": "w",
+"wid": "g0004",
+"a": "Evelyn de Morgan",
+"a_zh": "伊芙琳·德·摩根",
+"t": "By the Waters of Babylon (1882-1883)",
+"z": "巴比倫河邊",
+"y": "1882–1883",
+"mu": "De Morgan Foundation",
+"img": "img/800/g0004.webp",
+"thumb": "img/thumb/g0004.webp",
+"kind": "painting",
+"src_url": "https://commons.wikimedia.org/wiki/File:By_the_Waters_of_Babylon_(1882-1883).jpg",
+"wd": "",
+"theme": null,
+"chars": []
+},
+{
+"id": "w:g0005",
+"site": "w",
+"wid": "g0005",
+"a": "Unknown author Unknown author",
+"a_zh": "佚名（木刻插圖）",
+"t": "Naaman washes in Jordan",
+"z": "乃縵在約旦河沐浴",
+"y": "1873",
+"mu": "",
+"img": "img/800/g0005.webp",
+"thumb": "img/thumb/g0005.webp",
+"kind": "painting",
+"src_url": "https://commons.wikimedia.org/wiki/File:Naaman_washes_in_Jordan.jpg",
+"wd": "",
+"theme": null,
+"chars": [
+"naaman"
+]
 }
 ]
